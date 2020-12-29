@@ -1,0 +1,51 @@
+@media screen and (max-width: 479px){
+    .header{
+        width: 200px;
+        height: 200px;
+    }
+
+    .header-box{
+        height: 160px;
+        width: 60px;
+        margin:20px 70px 20px 70px;
+    }
+
+    .box2{
+        margin: 6px 10px 0 10px;
+    }
+
+    .box3{
+        margin: 6px 10px 0 10px;
+    }
+
+    .side{
+        width:200px;
+        height: 100px;
+        float: none;
+    }
+    .content{
+        width: 200px;
+        height: 200px;
+        float: left;
+    }
+    
+    .content-item{
+        height: 200px;
+    }
+
+    .content-box1{
+        margin:20px 30px 0 30px;
+    }
+
+    .content-box2{
+        margin:5px 30px 0 30px;
+    }
+
+    .content-box3{
+        margin:5px 30px 0 30px;
+    }
+
+    .footer{
+        width: 200px;
+    }
+}
