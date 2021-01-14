@@ -70,7 +70,7 @@ public class ExException {
 
 	 } catch (NullPointerException e) {
 	 printException(e);
-
+	 System.out.println(CONST_MSG_NULLPO);
 
 	 } catch (ArrayIndexOutOfBoundsException e) {
 	 printException(e);
